@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Freedom Women-Safety-App</string>
+
+
+    <string name="about">About Us</string>
+
+    <string name="aboutus"> Here we’re launching an app which ensures women’s protection. This decreases risk. When we need it and help us to identify the location of the person in danger. This application designed to provide security to women main aim of this application to provide women with protection in order to raise awareness of the critical situation for women.
+        \n Generally, this service can be activated by clicking on Active button. When you click on this button service to activate this Application will send SMS to those contact which you saved at the time of registration the SMS includes your message and your current location. User is primarily necessary to fill correct details, or this software would not function properly.
+        \n Everyday newspapers and news channels are filled with articles of kidnappings, rapes and murders. And these are just the accounted ones. The need for preventive measures is of the utmost importance, both at a public level as well as at a personal level.
+   \nIn case of an emergency this app immediately sends out alerts to all the listed contacts with the GPS .</string>
+
 </resources>

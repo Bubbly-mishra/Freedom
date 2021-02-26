@@ -70,7 +70,7 @@ tools:context=".MainActivity2">
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="80dp"
-                    android:src="@drawable/user"
+                    android:src="@drawable/support"
                     />
 
 
@@ -79,7 +79,7 @@ tools:context=".MainActivity2">
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="Profile"
+                    android:text="Support Service"
                     android:textColor="@android:color/holo_red_dark"
                     android:textSize="16sp"
                     android:textStyle="bold"
