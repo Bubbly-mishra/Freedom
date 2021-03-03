@@ -18,7 +18,7 @@ tools:context=".MainActivity2">
 
 
     <LinearLayout
-        android:id="@+id/lv_sos_emergency"
+        android:id="@+id/button2"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_gravity="center"
